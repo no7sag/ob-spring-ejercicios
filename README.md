@@ -1,3 +1,6 @@
+> Este repositorio contiene solamente la resolución de los ejercicios 10, 11 y 12.
+> Para acceder al repositorio con el resto de los ejercicios, dirigirse [aqui](https://github.com/no7sag/OpenBootcamp-Ejercicios).
+
 ### Ejercicio 10
 
 * Probar a empaquetar la aplicación con maven package desde Intellij IDEA.
